@@ -1,1 +1,1 @@
-# RabbitMq PHP
+# RabbitMQ PHP
